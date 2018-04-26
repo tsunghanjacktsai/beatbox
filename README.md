@@ -1,2 +1,2 @@
 # Beatbox
-The cyber beatbox which created by Java Swing
+The beatbox which was created by Java Swing.
