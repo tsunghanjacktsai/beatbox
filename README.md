@@ -1,2 +1,5 @@
 # Beatbox
-The beatbox which was created by Java Swing.
+The beatbox that could merge different instruments together. Enjoy some music!
+
+# Applied Skills
+Java Swing
